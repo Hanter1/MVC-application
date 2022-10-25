@@ -11,6 +11,7 @@
         - bootstrap
         - jquery
         - angular
+ 
 Подход к разработке
 - MVC (Model-View-Controller)
 
